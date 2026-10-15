@@ -3,7 +3,7 @@ Authors - Bikram Das, Rajdeep Pal, Saptarshi Pani, Maxim Minenko, Dmitrii Kaplun
 Conference - 11th International Conference on Computer Vision & Image Processing. <br />
 
 Code Files :- <br />
-heaff-net.ipynb -> Code implementation of the Proposed model used in the study. <br />
+heaff-net.py -> Code implementation of the Proposed model used in the study. <br />
 
 Architecture :- <br />
 <img width="878" height="515" alt="Image" src="https://github.com/user-attachments/assets/fd0d7fa4-b102-4c54-867a-356263766192" />
