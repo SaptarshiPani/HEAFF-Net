@@ -10,11 +10,11 @@ Architecture :- <br />
 <br /><br />
 
 Result Table :- <br />
-<img width="481" height="346" alt="Image" src="https://github.com/user-attachments/assets/4ab04327-c96f-497b-ba69-7c1edfcfbae0" />
+<img width="294" height="651" alt="Image" src="https://github.com/user-attachments/assets/911ee74d-39ea-48b9-a15c-0ff790e8ae44" />
 <br />
-<img width="487" height="561" alt="Image" src="https://github.com/user-attachments/assets/c8ad465f-2b5b-4eb8-b72e-45bb81496baa" />
+<img width="465" height="351" alt="Image" src="https://github.com/user-attachments/assets/46d91ad1-d7c3-49fe-aab5-8f55c5012f26" />
 <br /><br />
 
 Result Visualizations :- <br />
-<img width="507" height="347" alt="Image" src="https://github.com/user-attachments/assets/8148a96d-c4ba-4c1c-b701-c5501e0974c8" />
+<img width="491" height="338" alt="Image" src="https://github.com/user-attachments/assets/6bea26c0-f44a-43a6-909b-a5d3bde7ec15" />
 <br />
